@@ -5,7 +5,7 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 You can watch a demo of my software here: 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KF0LDyO1Yns)
 
 # Development Environment
 
